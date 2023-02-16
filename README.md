@@ -1,20 +1,10 @@
-<!-- - 👋 Hi, I’m @shahrookhansahil
-- 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me through email: mazaritec@gmail.com
 
-<!---
-shahrookhansahil/shahrookhansahil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- -->
- 
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/shahrookhansahil/shahrookhansahil/blob/main/web-3963945_1920.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="Sahil" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="Sahil" target="_blank" rel="noreferrer">Sahil</a> 👋
 </h3>
 
 <h2 align="center">
