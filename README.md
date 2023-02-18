@@ -60,9 +60,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shahrookhansahil)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shahrookhansahil)](https://github.com/shahrookhansahil)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrookhansahil&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrookhansahil&layout=compact)](https://github.com/shahrookhansahil)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=shahrookhansahil.shahrookhansahil)](https://www.yushi.dev/)
 
